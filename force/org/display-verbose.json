@@ -1,0 +1,19 @@
+{
+  "status": 0,
+  "result": {
+    "username": "test-somerandomid@example.com",
+    "devHubId": "you@devhub.org",
+    "id": "00D3B0000000000AAAA",
+    "createdBy": "you@devhub.org",
+    "createdDate": "2021-02-08T13:49:19.000+0000",
+    "expirationDate": "2021-02-15",
+    "status": "Active",
+    "edition": "Developer",
+    "orgName": "Epic Commerce Company, Inc",
+    "accessToken": "00D3B0000000000!<long_token>",
+    "instanceUrl": "https://agility-inspiration-00000-dev-ed.na00.my.-salesforce.com/",
+    "clientId": "PlatformCLI",
+    "sfdxAuthUrl": "force://PlatformCLI::<long_string>@agility-inspiration-00000-dev-ed.na00.my.salesforce.com/",
+    "alias": "theScratchOrgAlias"
+  }
+}
