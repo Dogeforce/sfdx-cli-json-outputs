@@ -1,0 +1,9 @@
+{
+  "status": 1,
+  "name": "INVALID_INPUT",
+  "message": "Code coverage has not been run for this version.  Code coverage must be run during version creation and meet the minimum coverage requirement to promote the version.",
+  "exitCode": 1,
+  "commandName": "PackageVersionPromoteCommand",
+  "stack": "INVALID_INPUT: Code coverage has not been run for this version.  Code coverage must be run during version creation and meet the minimum coverage requirement to promote the version.",
+  "warnings": []
+}
