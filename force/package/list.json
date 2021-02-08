@@ -1,0 +1,29 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "Id": "0Ho4M0000000000AAA",
+      "SubscriberPackageId": "0334M0000000000AAA",
+      "Name": "Package 1",
+      "Description": null,
+      "NamespacePrefix": "cbns",
+      "ContainerOptions": "Unlocked",
+      "ConvertedFromPackageId": null,
+      "Alias": "",
+      "IsOrgDependent": "N/A",
+      "PackageErrorUsername": null
+    },
+    {
+      "Id": "0Ho4M0000000000AAA",
+      "SubscriberPackageId": "0334M0000000000AAA",
+      "Name": "Package 2",
+      "Description": null,
+      "NamespacePrefix": "dogeforce",
+      "ContainerOptions": "Managed",
+      "ConvertedFromPackageId": null,
+      "Alias": "",
+      "IsOrgDependent": "N/A",
+      "PackageErrorUsername": "john@smith.com"
+    }
+  ]
+}
