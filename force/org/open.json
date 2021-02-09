@@ -1,0 +1,8 @@
+{
+  "status": 0,
+  "result": {
+    "orgId": "00D3B0000000000AAA",
+    "url": "https://agility-inspiration-00000-dev-ed.na00.my.salesforce.com/secur/frontdoor.jsp?sid=<long_id>",
+    "username": "test-orly@example.com"
+  }
+}
